@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="icon_sum" type="id"/>
+    <item name="icon_rest" type="id"/>
+    <item name="icon_division" type="id"/>
+    <item name="icon_multiply" type="id"/>
+    <item name="icon_equal" type="id"/>
+    <item name="icon_0" type="id"/>
+    <item name="icon_1" type="id"/>
+    <item name="icon_2" type="id"/>
+    <item name="icon_3" type="id"/>
+    <item name="icon_4" type="id"/>
+    <item name="icon_5" type="id"/>
+    <item name="icon_6" type="id"/>
+    <item name="icon_7" type="id"/>
+    <item name="icon_8" type="id"/>
+    <item name="icon_9" type="id"/>
+    <item name="text_operation" type="id"/>
+    <item name="text_results" type="id"/>
+
+    <item name="layout_numbers" type="id"/>
+    <item name="layout_operations" type="id"/>
+    <item name="layout_text_fields" type="id"/>
+</resources>
